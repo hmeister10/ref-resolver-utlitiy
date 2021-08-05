@@ -1,6 +1,7 @@
 {
   "name": "ref-resolver",
-  "version": "1.0.2",
+  "url": "https://github.com/hmeister10/ref-resolver-utlitiy.git",
+  "version": "1.0.3",
   "description": "A small utility library to resolve $ref references in JSON files",
   "main": "index.js",
   "scripts": {
