@@ -1,12 +1,12 @@
 {
   "name": "ref-resolver",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A small utility library to resolve $ref references in JSON files",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Himanshu Hiranandani",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
