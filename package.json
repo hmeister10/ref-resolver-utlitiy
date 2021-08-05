@@ -1,6 +1,6 @@
 {
   "name": "ref-resolver",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A small utility library to resolve $ref references in JSON files",
   "main": "index.js",
   "scripts": {
